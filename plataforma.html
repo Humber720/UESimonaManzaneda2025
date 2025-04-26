@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Calificaciones</title>
+    <link rel="stylesheet" href="plataforma.css">
+</head>
+<body>
+    <div class="container">
+        <h1><u>AREA: EDUCACIÓN MUSICAL</u></h1>
+        <h3><p>Curso: <span id="course-name"></span></p></h3>
+        <h2>Bienvenido/a, Estudiante: <span id="student-name">Estudiante</span></h2>
+        <table id="grades-table">
+            <tr>
+                <th>Trimestres</th>
+                <th>Calificación</th>
+                <th>Estado</th>
+                <th>Observación</th>
+            </tr>
+            <!-- Filas de calificaciones se insertarán aquí -->
+        </table>
+        <button onclick="downloadGrades()">Descargar Informe de Entrevista Pedagógica</button>
+        <button onclick="logout()">Salir</button>
+    </div>
+
+    <!-- Script para cargar las notas y manejar la sesión -->
+    <script src="plataforma.js"></script> 
+</body>
+</html>
