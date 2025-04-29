@@ -144,7 +144,7 @@ const studentsData = {
         password: "15099063",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "44", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "74", estado: "APROBADO(A)", observacion: "FALTA AUTOEVALUACIÓN QUE ME ENVIARAN LAS MAESTRAS DE AULA" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -225,7 +225,7 @@ const studentsData = {
         password: "16786439",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "79", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "90", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
