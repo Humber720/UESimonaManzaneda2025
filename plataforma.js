@@ -17,7 +17,7 @@ const studentsData = {
         password: "15505305",  // Contraseña
         curso: "1ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "89", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "92", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -26,7 +26,7 @@ const studentsData = {
         password: "17614196",  // Contraseña
         curso: "1ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "29", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -35,7 +35,7 @@ const studentsData = {
         password: "15325697",  // Contraseña
         curso: "1ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "77", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "80", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -44,7 +44,7 @@ const studentsData = {
         password: "15735347",  // Contraseña
         curso: "1ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "93", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "96", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -53,7 +53,7 @@ const studentsData = {
         password: "16372545",  // Contraseña
         curso: "1ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "72", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "75", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -62,7 +62,7 @@ const studentsData = {
         password: "15538197",  // Contraseña
         curso: "1ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "88", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "97", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -71,7 +71,7 @@ const studentsData = {
         password: "15574544",  // Contraseña
         curso: "1ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "27", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "60", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -80,7 +80,7 @@ const studentsData = {
         password: "16217781",  // Contraseña
         curso: "1ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "68", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "72", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -90,7 +90,7 @@ const studentsData = {
         password: "15383976",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "73", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "91", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -99,7 +99,7 @@ const studentsData = {
         password: "15098838",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "90", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "94", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -108,7 +108,7 @@ const studentsData = {
         password: "15200288",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "73", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "79", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -117,7 +117,7 @@ const studentsData = {
         password: "16916466",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "58", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "67", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -126,7 +126,7 @@ const studentsData = {
         password: "16789062",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "24", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "53", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -135,7 +135,7 @@ const studentsData = {
         password: "16782741",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "62", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "79", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -144,7 +144,7 @@ const studentsData = {
         password: "15099063",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "74", estado: "APROBADO(A)", observacion: "FALTA AUTOEVALUACIÓN QUE ME ENVIARAN LAS MAESTRAS DE AULA" },
+            { trimestre: "1er Trim.", calificacion: "85", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -153,7 +153,7 @@ const studentsData = {
         password: "16787132",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "50", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "72", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -162,7 +162,7 @@ const studentsData = {
         password: "15310814",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "68", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "95", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -171,7 +171,7 @@ const studentsData = {
         password: "17389914",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "66", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "75", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -180,7 +180,7 @@ const studentsData = {
         password: "17310778",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "66", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "69", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -189,7 +189,7 @@ const studentsData = {
         password: "16733005",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "20", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -198,7 +198,7 @@ const studentsData = {
         password: "15041299",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "79", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "82", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -207,7 +207,7 @@ const studentsData = {
         password: "15041299",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "59", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "75", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -216,7 +216,7 @@ const studentsData = {
         password: "15171572",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "57", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "71", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -225,7 +225,7 @@ const studentsData = {
         password: "16786439",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "90", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "95", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -234,7 +234,7 @@ const studentsData = {
         password: "15530203",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "28", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -243,7 +243,7 @@ const studentsData = {
         password: "15275310",  // Contraseña
         curso: "2do de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "28", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -253,7 +253,7 @@ const studentsData = {
         password: "17259685",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "55", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "81", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -262,7 +262,7 @@ const studentsData = {
         password: "16297349",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "31", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "56", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -271,7 +271,7 @@ const studentsData = {
         password: "16653592",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "90", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "94", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -280,7 +280,7 @@ const studentsData = {
         password: "16689391",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "83", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "87", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -289,7 +289,7 @@ const studentsData = {
         password: "16972434",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "18", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -298,7 +298,7 @@ const studentsData = {
         password: "17414259",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "40", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "59", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -307,7 +307,7 @@ const studentsData = {
         password: "17118554",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "22", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "55", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -316,7 +316,7 @@ const studentsData = {
         password: "16959941",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "31", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "58", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -325,16 +325,7 @@ const studentsData = {
         password: "15790869",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "58", estado: "APROBADO(A)", observacion: "" },
-            { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
-            { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
-        ],
-    },
-    "RUZENA ESDENKA": { //Usuario
-        password: "15027286",  // Contraseña
-        curso: "3ro de Primaria", 
-        calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "37", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "91", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -343,7 +334,16 @@ const studentsData = {
         password: "17310758",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "18", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
+            { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
+        ],
+    },
+    "RUZENA ESDENKA": { //Usuario
+        password: "15027286",  // Contraseña
+        curso: "3ro de Primaria", 
+        calificaciones: [
+            { trimestre: "1er Trim.", calificacion: "64", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -352,7 +352,7 @@ const studentsData = {
         password: "17272587",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "44", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "64", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -361,16 +361,7 @@ const studentsData = {
         password: "15680683",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "75", estado: "APROBADO(A)", observacion: "" },
-            { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
-            { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
-        ],
-    },
-    "SHEYLA LUCIANA": { //Usuario
-        password: "15960112",  // Contraseña
-        curso: "3ro de Primaria", 
-        calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "92", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "87", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -379,7 +370,16 @@ const studentsData = {
         password: "16351233",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "89", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "94", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
+            { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
+        ],
+    },
+    "SHEYLA LUCIANA": { //Usuario
+        password: "15960112",  // Contraseña
+        curso: "3ro de Primaria", 
+        calificaciones: [
+            { trimestre: "1er Trim.", calificacion: "96", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -388,7 +388,7 @@ const studentsData = {
         password: "16885668",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "19", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -397,7 +397,7 @@ const studentsData = {
         password: "16911786",  // Contraseña
         curso: "3ro de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "20", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "53", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -407,7 +407,7 @@ const studentsData = {
         password: "16176647",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "25", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -416,7 +416,7 @@ const studentsData = {
         password: "14427120",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "88", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "94", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -425,7 +425,7 @@ const studentsData = {
         password: "15605576",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "85", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "88", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -434,7 +434,7 @@ const studentsData = {
         password: "17265383",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "25", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "NO CUENTA CON MATERIAL ESCOLAR DE MÚSICA" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -443,7 +443,7 @@ const studentsData = {
         password: "17118549",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "40", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "59", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -452,7 +452,7 @@ const studentsData = {
         password: "16160305",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "54", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "71", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -461,7 +461,7 @@ const studentsData = {
         password: "15642783",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "35", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "12", estado: "REPROBADO(A)", observacion: "RETIRADO" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -470,7 +470,7 @@ const studentsData = {
         password: "14480516",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "68", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "81", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -479,7 +479,7 @@ const studentsData = {
         password: "16363584",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "26", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "56", estado: "REPROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -488,7 +488,7 @@ const studentsData = {
         password: "16324027",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "34", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "52", estado: "APROBADO(A)", observacion: "NO CUENTA CON MATERIAL ESCOLAR DE MUSICA" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -497,7 +497,7 @@ const studentsData = {
         password: "15141072",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "69", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "81", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -506,7 +506,7 @@ const studentsData = {
         password: "16786700",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "28", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "55", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -515,7 +515,7 @@ const studentsData = {
         password: "17173764",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "24", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "NO CUENTA CON MATERIAL ESCOLAR" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -524,7 +524,7 @@ const studentsData = {
         password: "14802040",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "59", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "87", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -533,7 +533,7 @@ const studentsData = {
         password: "16217837",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "28", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "53", estado: "APROBADO(A)", observacion: "NO CUENTA CON MATERIAL ESCOLAR" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -542,7 +542,7 @@ const studentsData = {
         password: "16700337",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "29", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "64", estado: "REPROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -551,7 +551,7 @@ const studentsData = {
         password: "15204952",  // Contraseña
         curso: "4to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "75", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "89", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -561,7 +561,7 @@ const studentsData = {
         password: "16297336",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "41", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -570,7 +570,7 @@ const studentsData = {
         password: "15645677",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "95", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "99", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -579,7 +579,7 @@ const studentsData = {
         password: "16789053",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "29", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -588,7 +588,7 @@ const studentsData = {
         password: "17451940",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "56", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "88", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -597,7 +597,7 @@ const studentsData = {
         password: "17414278",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "9", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "NO CUENTA CON MATERIAL ESCOLAR" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -606,7 +606,7 @@ const studentsData = {
         password: "16789847",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "83", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "91", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -615,7 +615,7 @@ const studentsData = {
         password: "16883745",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "53", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "61", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -624,7 +624,7 @@ const studentsData = {
         password: "15306099",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "1", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "51", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -633,7 +633,7 @@ const studentsData = {
         password: "14047775",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "86", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "92", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -642,7 +642,7 @@ const studentsData = {
         password: "14304209",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "88", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "96", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -651,7 +651,7 @@ const studentsData = {
         password: "14801125",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "17", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "53", estado: "APROBADO(A)", observacion: "NO CUENTA CON MATERIAL ESCOLAR COMO CARPETA Y CANCIONERO" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -660,7 +660,7 @@ const studentsData = {
         password: "15333051",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "93", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "96", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -669,7 +669,7 @@ const studentsData = {
         password: "15960084",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "94", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "97", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -678,7 +678,7 @@ const studentsData = {
         password: "16885708",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "36", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "56", estado: "APROBADO(A)", observacion: "NO CUENTA CON MATERIAL ESCOLAR" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -687,7 +687,7 @@ const studentsData = {
         password: "16166926",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "28", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "61", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -696,7 +696,7 @@ const studentsData = {
         password: "16220469",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "30", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "55", estado: "REPROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -705,7 +705,7 @@ const studentsData = {
         password: "17184594",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "88", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "97", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -714,7 +714,7 @@ const studentsData = {
         password: "16960822",  // Contraseña
         curso: "5to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "33", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO LUNES 28/04/25" },
+            { trimestre: "1er Trim.", calificacion: "62", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -724,7 +724,7 @@ const studentsData = {
         password: "16557920",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "88", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "91", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -733,7 +733,7 @@ const studentsData = {
         password: "17260874",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "35", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "52", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -742,7 +742,7 @@ const studentsData = {
         password: "16916432",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "25", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "56", estado: "APROBADO(A)", observacion: "NO TRAE MATERIAL ESCOLAR EN LA CLASE DE MÚSICA" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -751,7 +751,7 @@ const studentsData = {
         password: "13344413",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "1", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "3", estado: "REPROBADO(A)", observacion: "NO ASISTE A LAS CLASES DE MÚSICA" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -760,7 +760,7 @@ const studentsData = {
         password: "16883286",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "41", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "63", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -769,7 +769,7 @@ const studentsData = {
         password: "16198986",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "0", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "2", estado: "REPROBADO(A)", observacion: "NO ASISTE A LAS CLASES DE MÚSICA" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -778,7 +778,7 @@ const studentsData = {
         password: "17465602",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "75", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "83", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -787,7 +787,7 @@ const studentsData = {
         password: "13551461",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "85", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "94", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -796,7 +796,7 @@ const studentsData = {
         password: "15224708",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "63", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "67", estado: "APROBADO(A)", observacion: "NO CUENTA CON CACIONERO PATRIOTICO" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -805,7 +805,7 @@ const studentsData = {
         password: "15215312",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "0", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "2", estado: "REPROBADO(A)", observacion: "NO ASISTE A LAS CLASES DE MÚSICA" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -814,7 +814,7 @@ const studentsData = {
         password: "16699943",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "42", estado: "REPROBADO(A)", observacion: "PRESENTAR LAS TAREAS QUE NO REALIZO VIERNES 02/05/25" },
+            { trimestre: "1er Trim.", calificacion: "70", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -823,7 +823,7 @@ const studentsData = {
         password: "14915429",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "94", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "98", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
@@ -832,7 +832,7 @@ const studentsData = {
         password: "16326100",  // Contraseña
         curso: "6to de Primaria", 
         calificaciones: [
-            { trimestre: "1er Trim.", calificacion: "85", estado: "APROBADO(A)", observacion: "" },
+            { trimestre: "1er Trim.", calificacion: "92", estado: "APROBADO(A)", observacion: "" },
             { trimestre: "2do Trim.", calificacion: "", estado: "", observacion: "" },
             { trimestre: "3er Trim.", calificacion: "", estado: "", observacion: "" },
         ],
