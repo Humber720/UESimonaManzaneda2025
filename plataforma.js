@@ -893,7 +893,7 @@ function login(event) {
         // Guardar el usuario en el almacenamiento local
         localStorage.setItem("loggedUser", username);
         // Redireccionar a la página de plataforma
-        location.replace = "plataforma.html";
+        location.location.href = "plataforma.html";
 
     } else {
         alert("Usuario o contraseña incorrectos. Inténtalo de nuevo.");
