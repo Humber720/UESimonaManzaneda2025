@@ -893,7 +893,8 @@ function login(event) {
         // Guardar el usuario en el almacenamiento local
         localStorage.setItem("loggedUser", username);
         // Redireccionar a la página de plataforma
-        window.location.href = "plataforma.html";
+        location.replace = "plataforma.html";
+
     } else {
         alert("Usuario o contraseña incorrectos. Inténtalo de nuevo.");
     }
@@ -957,11 +958,16 @@ function openReport() {
     window.open(FilePath, '_blank');
 }
 
-// Función para cerrar sesión
-function logout() {
-    localStorage.removeItem("loggedUser");
-    window.location.href = "index.html";
-}
+
+// Bloquear acceso si se carga directamente o desde historial sin sesión
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") {
+    const user = localStorage.getItem("loggedUser");
+    if (!user || !estudiantes[user]) {
+      location.replace("index.html");
+    }
+  }
+});
 
 // Llama a loadGrades solo si estamos en plataforma.html
 if (window.location.pathname.includes("plataforma.html")) {
