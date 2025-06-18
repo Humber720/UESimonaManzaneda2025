@@ -957,10 +957,11 @@ function openReport() {
     // Abrir el PDF en una nueva pestaña, sin descargar automáticamente
     window.open(FilePath, '_blank');
 }
-
-
-// Bloquear acceso si se carga directamente o desde historial sin sesión
-
+// Función para cerrar sesión
+function logout() {
+    localStorage.removeItem("loggedUser");
+    window.location.href = "index.html";
+}
 // Llama a loadGrades solo si estamos en plataforma.html
 if (window.location.pathname.includes("plataforma.html")) {
     loadGrades();
