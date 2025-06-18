@@ -893,8 +893,7 @@ function login(event) {
         // Guardar el usuario en el almacenamiento local
         localStorage.setItem("loggedUser", username);
         // Redireccionar a la página de plataforma
-        location.location.href = "plataforma.html";
-
+        window.location.href = "plataforma.html";
     } else {
         alert("Usuario o contraseña incorrectos. Inténtalo de nuevo.");
     }
@@ -944,24 +943,31 @@ function loadGrades() {
     }
 }
 
-// Función para abrir las notas en PDF (sin forzar descarga)
-function openReport() {
+
+// Función para descargar las notas
+function downloadGrades() {
     const username = localStorage.getItem("loggedUser");
     if (!username) {
         alert("No se encontró el usuario en sesión.");
         return;
     }
 
-    const FilePath = `notas/${username}.pdf`; // Ruta donde están los PDFs
+    const notesFilePath = `notas/${username}.pdf`; // Ruta donde guardaste los PDFs
 
-    // Abrir el PDF en una nueva pestaña, sin descargar automáticamente
-    window.open(FilePath, '_blank');
+    const link = document.createElement('a');
+    link.href = notesFilePath;
+    link.download = `${username}_notas.pdf`;
+    document.body.appendChild(link); // Necesario para Firefox
+    link.click();
+    document.body.removeChild(link);
 }
+
 // Función para cerrar sesión
 function logout() {
     localStorage.removeItem("loggedUser");
     window.location.href = "index.html";
 }
+
 // Llama a loadGrades solo si estamos en plataforma.html
 if (window.location.pathname.includes("plataforma.html")) {
     loadGrades();
