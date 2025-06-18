@@ -904,7 +904,7 @@ function loadGrades() {
     const username = localStorage.getItem("loggedUser");
     if (!username || !studentsData[username]) {
         alert("No hay datos de usuario. Redirigiendo a inicio de sesión.");
-        window.location.href = "inicio.html";
+        window.location.href = "index.html";
         return;
     }
 
