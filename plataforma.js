@@ -964,8 +964,11 @@ function downloadGrades() {
 
 // Función para cerrar sesión
 function logout() {
+    // Elimina la sesión
     localStorage.removeItem("loggedUser");
-    window.location.href = "index.html";
+
+    // Redirige reemplazando la historia (impide volver con "Atrás")
+    location.replace("index.html");
 }
 
 // Llama a loadGrades solo si estamos en plataforma.html
