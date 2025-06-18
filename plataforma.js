@@ -960,30 +960,6 @@ function openReport() {
 
 
 // Bloquear acceso si se carga directamente o desde historial sin sesión
-function logout() {
-  // Eliminar la sesión
-  localStorage.removeItem("loggedUser");
-
-  // Reemplazar la página actual sin dejar historial
-  location.replace("inicio.html");
-}
-
-// Protección adicional: evitar volver con botón "Atrás"
-window.addEventListener("pageshow", () => {
-  const user = localStorage.getItem("loggedUser");
-  if (!user || !studentsData[user]) {
-    location.replace("inicio.html"); // Usa la página de inicio correcta
-  }
-});
-
-document.addEventListener("visibilitychange", () => {
-  if (document.visibilityState === "visible") {
-    const user = localStorage.getItem("loggedUser");
-    if (!user || !studentsData[user]) {
-      location.replace("inicio.html");
-    }
-  }
-});
 
 // Llama a loadGrades solo si estamos en plataforma.html
 if (window.location.pathname.includes("plataforma.html")) {
